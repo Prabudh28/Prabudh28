@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prabudh28
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning BE
+- 🌱 I’m currently pursuing Bachelor's
 - 📫 How to reach me ...
 
 <!---
